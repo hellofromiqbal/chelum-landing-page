@@ -27,7 +27,7 @@ export default function About() {
           {/* Image */}
           <div className="relative h-125 rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="/product_tiongdelite.webp"
+              src="/product_tiong_delite.webp"
               alt="Cocoa beans"
               className="w-full h-full object-cover"
               fill
