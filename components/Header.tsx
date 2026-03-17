@@ -16,7 +16,7 @@ export default function Header() {
           <Link
             href={"#home"}
             onClick={() => setActiveNavLink("home")}
-            className="text-2xl font-serif relative"
+            className="text-white text-2xl font-serif relative"
           >
             CHELUM <sup className="text-xs ml-1 absolute -top-1">&reg;</sup>
           </Link>
